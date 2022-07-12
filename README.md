@@ -11,7 +11,7 @@
 <p>- Go to my github repository and click on <b>Code</b> and <b>Download ZIP</b>.</p>
 <img src="https://user-images.githubusercontent.com/77303061/178402522-56e4291e-3fd7-4835-8273-71e77c001bc7.png" width="300px" height="300px"/>
 <p>- Go to where the ZIP is and <b>extract all</b>.</p>
-<img src="https://user-images.githubusercontent.com/77303061/178402928-e63364f1-2399-46f0-99e5-3e7662ca6fab.png" width="450px" height="200px"/>
+<img src="https://user-images.githubusercontent.com/77303061/178402928-e63364f1-2399-46f0-99e5-3e7662ca6fab.png" width="300px" height="150px"/>
 <p>- Open Code::Blocks and click on <b>File</b>, <b>Open</b> and click on <b>test.cbp</b>.</p>
 <img src="https://user-images.githubusercontent.com/77303061/178404764-7d748f09-806c-4804-8700-696b0c4a7199.png" width="450px" height="250px"/>
 <p>- Click on <b>Build and run.</b></p>
