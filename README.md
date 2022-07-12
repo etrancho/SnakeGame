@@ -16,4 +16,5 @@
 <img src="https://user-images.githubusercontent.com/77303061/178404764-7d748f09-806c-4804-8700-696b0c4a7199.png" width="450px" height="250px"/>
 <p>- Click on <b>Build and run.</b></p>
 <img src="https://user-images.githubusercontent.com/77303061/178405214-4c9951fe-d350-4adf-8867-5c6bc9a39efb.png" width="450px" height="250px"/>
-<p>- And now you can play the game on the console :)</p>
+
+<h2 align="center"><b>Enjoy the game! 🐍</b></h2>
