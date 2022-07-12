@@ -8,4 +8,6 @@
 
 <h2>What do I have to install?</h2>
 <p>- <b>Code::Blocks</b> -> Install "codeblocks-20.03mingw-setup.exe" in: https://www.codeblocks.org/downloads/binaries/.</p>
-<p>- </p>
+<p>- Go to my github repository and click on <b>Code</b> and <b>Download ZIP</b></p>
+<img src="https://user-images.githubusercontent.com/77303061/178402522-56e4291e-3fd7-4835-8273-71e77c001bc7.png"/>
+<p>- Then </p>
